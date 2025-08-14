@@ -20,9 +20,3 @@ A full-stack web application for managing restaurant operations, built with Reac
    cd RestaurantManagementSystem
    ```
 2. Follow the setup instructions in each subfolder's `README.md` to run the backend and frontend.
-
-## Demo
-Add screenshots or a link to a live demo here if available.
-
-## License
-This project is for educational/demo purposes.
