@@ -69,6 +69,8 @@ Team Foodies`
 //     }
 // }
 
+console.log("Sending email from:", process.env.USER);
+
 module.exports = {
     sendSignupMail,
     sendVFCodeMail,
