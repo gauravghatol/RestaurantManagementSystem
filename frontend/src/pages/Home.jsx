@@ -416,7 +416,7 @@ export default function Home() {
                     </div>  
                     <div className='footer-contact-ep'>
                         <h4>Contact</h4>
-                        <p><img src={contactIcon}/>+91 9876543210</p>
+                        <p><img src={contactIcon}/>+91 9730655778</p>
                         <p><img src={emailIcon}/>foodies.help@gmail.com</p>
                         <p><img src={addressIcon}/>Address of the restaurant, city</p>
                     </div>
